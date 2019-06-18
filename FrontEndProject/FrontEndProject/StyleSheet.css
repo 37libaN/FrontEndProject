@@ -2,21 +2,23 @@
     font-size: large;
     font-weight: bold;
     font-family: 'Lato', sans-serif;
+    text-align: center;
 }
 
 h2 {
     font-size: medium;
-    color: lightgrey;
+    color: darkgray;
     font-family: 'Lato', sans-serif;
 }
 
 h3 {
     font-size: medium;
     font-family: 'Lato', sans-serif;
+    text-align: center;
 }
 
 .subHeader {
-    color: lightgrey;
+    color: darkgray;
     font-family: 'Lato', sans-serif;
 }
 
@@ -25,7 +27,7 @@ body {
 }
 
 .continueReadingLink{
-
+    text-align: right;
 }
 
 .centerImage{
