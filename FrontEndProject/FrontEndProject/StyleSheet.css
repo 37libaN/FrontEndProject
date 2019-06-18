@@ -1,2 +1,29 @@
-﻿body {
+﻿h1 {
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    font-size: medium;
+    color: lightgrey;
+    font-family: 'Lato', sans-serif;
+}
+
+h3 {
+    font-size: medium;
+    font-family: 'Lato', sans-serif;
+}
+
+.subHeader {
+    color: lightgrey;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.continueReadingLink{
+
 }
