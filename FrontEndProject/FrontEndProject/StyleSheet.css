@@ -14,7 +14,6 @@ h2 {
 h3 {
     font-size: medium;
     font-family: 'Lato', sans-serif;
-    text-align: center;
 }
 
 .subHeader {
@@ -28,4 +27,10 @@ body {
 
 .continueReadingLink{
     text-align: right;
+}
+
+.centerImage{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
